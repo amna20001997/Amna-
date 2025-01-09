@@ -1,9 +1,3 @@
-# Amna-
-إليك ملف README.md بتنسيق مناسب لمشروعك على GitHub. قم بنسخه ولصقه مباشرة في مستودعك:
-
-
----
-
 # Pipe Execution Program
 
 ## Objective
@@ -15,16 +9,25 @@ This project demonstrates how to:
 ---
 
 ## Group Information
-- **Group Number**: [NAME]  
-- **Index Numbers**: [List index numbers]  
-- **Members**: [List group members]  
+1_ Samah Adil Mohamed Abdelaal 17-645
+2_ Amna Abbas Hassan Bashir 18-635
+3_ Yousif hafiz abdalwahab hafiz 18-626
+4_Noor Tilal Mohammed Ahmed 18-625
+- **Group Number**: 16 
+- **Index Numbers**: 17-645 , 18-626 , 18-625 , 18-635 
+- **Members**:
+- 1_ Samah Adil Mohamed Abdelaal 
+2_ Amna Abbas Hassan Bashir 
+3_ Yousif hafiz abdalwahab hafiz 
+4_Noor Tilal Mohammed Ahmed  
 
 ---
 
 ## Work Division
-- **[Member 1]**: Implemented the creation of pipes and child processes.  
-- **[Member 2]**: Handled error checking, input validation, and program testing.  
-- **[Member 3]**: Created this README file and documented the design overview.  
+- **[Member 1]**: and 
+ **[Member 2]**: Slove problem1 by it's code and testings .
+  **[Member 3]**: solve the code and testing of Problem 2 .
+- **[Member 4]**:Coding of Problem 2 and , Created this README file and documented the design.  
 
 ---
 
@@ -121,16 +124,6 @@ This project demonstrates how to:
 
 ---
 
-## Submission Instructions
-1. Create a directory named `p4-NAME`, where `NAME` is the group number.
-2. Include the following files:
-   - **Source Code**: All `.c` and `.h` files.
-   - **Makefile**: For easy compilation.
-   - **README File**: This file for documentation.
-3. Compress the directory (excluding object files) and submit it.
-
----
-
 ## Compilation and Execution
 To compile the program:
 ```bash
@@ -144,6 +137,4 @@ For example:
 
 ./pipe_program "ls | wc -l"
 
----
 
-انسخ هذا الملف وأضفه كـ `README.md` في مستودعك على GitHub.
