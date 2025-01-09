@@ -1,8 +1,4 @@
-# Amna-
-إليك ملف README.md بتنسيق مناسب لمشروعك على GitHub. قم بنسخه ولصقه مباشرة في مستودعك:
 
-
----
 
 # Pipe Execution Program
 
@@ -15,9 +11,17 @@ This project demonstrates how to:
 ---
 
 ## Group Information
-- **Group Number**: [NAME]  
-- **Index Numbers**: [List index numbers]  
-- **Members**: [List group members]  
+- **Group Number**: 16
+- **Index Numbers**: 
+[17-645 , 
+18-626 , 
+18-625 , 
+18 635]  
+- **Members**: 
+[1_ Samah Adil Mohamed Abdelaal 17-645
+2_ Amna Abbas Hassan Bashir 18-635
+3_ Yousif hafiz abdalwahab hafiz 18-626
+4_Noor Tilal Mohammed Ahmed 18-625]  
 
 ---
 
@@ -121,15 +125,7 @@ This project demonstrates how to:
 
 ---
 
-## Submission Instructions
-1. Create a directory named `p4-NAME`, where `NAME` is the group number.
-2. Include the following files:
-   - **Source Code**: All `.c` and `.h` files.
-   - **Makefile**: For easy compilation.
-   - **README File**: This file for documentation.
-3. Compress the directory (excluding object files) and submit it.
 
----
 
 ## Compilation and Execution
 To compile the program:
@@ -144,6 +140,4 @@ For example:
 
 ./pipe_program "ls | wc -l"
 
----
 
-انسخ هذا الملف وأضفه كـ `README.md` في مستودعك على GitHub.
